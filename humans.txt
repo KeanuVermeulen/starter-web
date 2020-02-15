@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Keanu -- Inter-Engineer
 
 # THANKS
 
-    <name>
+    Thanks to all my mentors
 
 # TECHNOLOGY COLOPHON
 
